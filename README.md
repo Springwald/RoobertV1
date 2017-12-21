@@ -18,7 +18,7 @@ Project website: [http://roobert.springwald.de](http://roobert.springwald.de "ht
 
 Licensed under MIT License (MIT)
 
-Copyright (c) 2018 Daniel Springwald | daniel@springwald.de
+Copyright (c) 2016 Daniel Springwald | daniel@springwald.de
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
