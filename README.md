@@ -16,6 +16,10 @@ First version of Roobert - home robot project
 
 Project website: [http://roobert.springwald.de](http://roobert.springwald.de "http://roobert.springwald.de")
 
+![](Roobert-001.jpg)
+
+![](Roobert-003.jpg)
+
 Licensed under MIT License (MIT)
 
 Copyright (c) 2016 Daniel Springwald | daniel@springwald.de
